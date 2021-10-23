@@ -6,8 +6,9 @@
 **Today's Progress**: 
 
 - Created fork for 100daysofcode on Github 
-- Learned about margin, padding and flexbox
+- (CSS) Learned about margin, padding
+- Started learning about flexbox and how it works 
 
-**Thoughts:** 
+**Thoughts:** Really enjoy the idea of flexbox and can see how useful it is for laying out content
 
 **Link to work:** 
